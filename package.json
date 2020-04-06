@@ -1,0 +1,11 @@
+{
+    "name": "sbaier.zenject",
+    "displayName": "SBaier Zenject",
+    "version": "1.0.0",
+    "unity": "2019.3.7f1",
+    "description": "Custom Zenject Logic",
+    "keywords": ["Zenject", "Logic"],
+    "category": "Controllers",
+    "dependencies": {
+    }
+}
